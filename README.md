@@ -1,5 +1,5 @@
 # Cálculadora de Média
-![calculadora de média](./img/calculo-de-media.jpeg)
+![calculadora de média](calculator.png)
 
 ______________________________
 ## Exercício
