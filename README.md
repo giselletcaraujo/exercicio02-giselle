@@ -1,6 +1,7 @@
 # Cálculadora de Média
+<<<<<<< HEAD
 ![calculadora de média](./img/calculator.png)
-
+=======
 ______________________________
 ## Exercício
 
